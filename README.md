@@ -1,4 +1,6 @@
-A simple demo sending events from a Raspberry Pi to Splunk's HTTP Event Collector
+A simple demo sending events from a Raspberry Pi to Splunk's HTTP Event Collector.
+
+
 
 ## Setup the Raspberry Pi
 

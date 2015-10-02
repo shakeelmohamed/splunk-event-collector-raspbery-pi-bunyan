@@ -25,8 +25,8 @@ ARM architecture.
 
 ## Setup this demo app
 
-0. Clone the project: `git clone ...`
-0. Go to the project: `cd ...`
+0. Clone the project: `git clone git@github.com:shakeelmohamed/splunk-event-collector-raspbery-pi-bunyan.git`
+0. Go to the project: `cd splunk-event-collector-raspbery-pi-bunyan`
 0. Install depdendency `npm install`
 0. Create `config.json` with your token & Splunk host: `{"token": "your-token-here", "host": "splunk.local"}`
 0. Save the file.

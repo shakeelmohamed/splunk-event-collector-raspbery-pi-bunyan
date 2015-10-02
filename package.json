@@ -1,0 +1,28 @@
+{
+  "name": "splunk-event-collector-raspbery-pi-bunyan",
+  "version": "1.0.0",
+  "description": "A simple app logging events to Splunk from a Raspberry Pi",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakeelmohamed/splunk-event-collector-raspbery-pi-bunyan.git"
+  },
+  "keywords": [
+    "splunk",
+    "event",
+    "collector",
+    "HTTP",
+    "raspberry",
+    "pi"
+  ],
+  "author": "Shakeel Mohamed",
+  "license": "MIT",
+  "dependencies": {
+    "bunyan": "^1.5.1",
+    "splunk-bunyan-logger": "0.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/shakeelmohamed/splunk-event-collector-raspbery-pi-bunyan/issues"
+  },
+  "homepage": "https://github.com/shakeelmohamed/splunk-event-collector-raspbery-pi-bunyan#readme"
+}

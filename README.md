@@ -28,7 +28,7 @@ ARM architecture.
 0. Clone the project: `git clone ...`
 0. Go to the project: `cd ...`
 0. Install depdendency `npm install`
-0. Create `config.json` with your token: `{"token": "you-token-here"}`
+0. Create `config.json` with your token & Splunk host: `{"token": "your-token-here", "host": "splunk.local"}`
 0. Save the file.
 0. Run a real-time search in Splunk: `http://splunk.local:8000/en-US/app/search/search?q=search%20host%3D%22raspberry-pi%22&display.page.search.mode=smart&earliest=rt-5m&latest=rt`
 0. Run the app: `node index.js`

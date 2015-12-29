@@ -22,7 +22,7 @@ var event = {
     number: 0
 };
 
-console.log("Starting to send events every 5s");
+console.log("Starting to send events every 2s");
 setInterval(function() {
     console.log("\tsending...");
     event.number++;

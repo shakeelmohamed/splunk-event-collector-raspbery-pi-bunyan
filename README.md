@@ -6,7 +6,7 @@ A simple demo sending events from a Raspberry Pi to Splunk's HTTP Event Collecto
 
 This is the hard part, but you should only have to do this once.
 
-0. Install git: `sudo apt-get isntall git`
+0. Install git: `sudo apt-get install git`
 0. Install nvm (Node.js Version manager): `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.27.1/install.sh | bash`
 0. Install Node.js: `nvm install 4`
     - Binaries for ARM aren't available for older versions of Node.js. NVM still works fine, but it will take around 1 hour to build the binaries from source.
